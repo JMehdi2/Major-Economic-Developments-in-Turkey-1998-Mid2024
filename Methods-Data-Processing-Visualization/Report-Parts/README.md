@@ -1,6 +1,6 @@
 # Report Parts Directory
 
-This directory contains documents related to the Methods section of the report. The [*Methods-Section*](https://github.com/JMehdi2/Intro-Turkish-Economy/blob/main/Data-Processing-Visualization/Report-Parts/Report_MainText.pdf) document represents the core content of the Methods section, while other documents, such as *Annex F*, contain additional materials referenced within the Methods section.
+This directory contains documents related to the Methods section of the report. The [*Methods-Section*](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024/blob/main/Methods-Data-Processing-Visualization/Report-Parts/Methods-Section.pdf) document represents the core content of the Methods section, while other documents, such as *Annex F*, contain additional materials referenced within the Methods section.
 
 ## Contents
 

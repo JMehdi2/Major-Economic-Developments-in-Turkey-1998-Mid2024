@@ -12,8 +12,8 @@ The objective of the data processing and visualization section is to create orga
 - Visualizing data.
 
 ## Contents
-- [*Report-Parts*](https://github.com/JMehdi2/Intro-Turkish-Economy/tree/main/Data-Processing-Visualization/Report-Parts): Documentation of the processing operations is provided in the report’s [Methods section](https://github.com/JMehdi2/Intro-Turkish-Economy/blob/main/Data-Processing-Visualization/Report-Parts/Report_MainText.pdf), along with supporting documents.
-- Resources-Data-Category-*X*: This directory contains resources for Data Category *X* (where X is a specific data category), including initial datasets, final processed datasets, and code files for data processing and visualization.
+- *Report-Parts*: Documentation of the processing operations is provided in the report’s [Methods section](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024/blob/main/Methods-Data-Processing-Visualization/Report-Parts/Methods-Section.pdf), along with supporting documents.
+- *Resources-Data-Category-X*: This directory contains resources for Data Category *X* (where X is a specific data category), including initial datasets, final processed datasets, and code files for data processing and visualization.
 
 ## Getting Started
-- We recommend starting by reading the [Methods section](https://github.com/JMehdi2/Intro-Turkish-Economy/blob/main/Data-Processing-Visualization/Report-Parts/Report_MainText.pdf). This section will guide readers through the components of the directory, as it includes references to the annexes, other accompanying documents, and the resources for each Data Category.
+- We recommend starting by reading the [Methods section](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024/blob/main/Methods-Data-Processing-Visualization/Report-Parts/Methods-Section.pdf). This section will guide readers through the components of the directory, as it includes references to the annexes, other accompanying documents, and the resources for each Data Category.
