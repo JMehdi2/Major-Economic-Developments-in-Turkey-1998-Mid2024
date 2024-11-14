@@ -26,6 +26,10 @@ This project explores the developments in the Turkish economy from 1998 to the s
 - This project is not yet complete. However, we are sharing progress in an organized manner, recognizing that individual parts of this work serve as valuable resources on their own and inviting feedback from readers.
 - As of the time of this README file update, we are building and processing the "Data Categories" and creating the related graphical visualizations, with documentation provided in the Methods section of the report. [Click Here](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024/tree/main/Methods-Data-Processing-Visualization)
 - The next step will be to divide the time period under analysis (1998 to Mid-2024) into subperiods, within which we will identify significant economic events and trends and describe them in light of relevant existing literature.
+
 ## Licensing
-- This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+- This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
 - Suggested citation: Jaddour, Mehdi. 2024. “Major Economic Developments in Turkey: 1998 to Mid-2024.” GitHub. Last modified [Month Day, Year]. Accessed [Month Day, Year]. https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024.
+
+## Acknowledgments
+- Special thanks to ChatGPT for providing **Project Documentation Support**, helping to enhance the clarity and quality of this project's documentation.
