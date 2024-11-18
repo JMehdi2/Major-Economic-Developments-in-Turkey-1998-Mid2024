@@ -9,13 +9,13 @@ This project explores the developments in the Turkish economy from 1998 to the s
 - To provide the necessary foundation for connecting macroeconomic developments with the evolution of the Grocery Discount Retail Market.
 
 ## Methodology
-- Exploration and processing of various economic datasets, organized into relevant "Data Categories".
+- Exploration and processing of various economic datasets, organized into relevant "Data Categories."
 - Review and synthesis of relevant literature to contextualize developments and interpret findings.
 - Examination of macroeconomic trends and their implications for the Grocery Discount Retail Market.
 
 ## Data Sources
 - General references to data sources can be found in Subsection A-I, "Data Presentation," of the report's Methods section.
-- Detailed references to data sources are provided in the Data References section of the report.
+- Detailed references to data sources are provided in the References for Data section of the report.
 - References to literature are provided in the References section of the report.
 
 ## Expected Outcomes
