@@ -4,16 +4,16 @@
 This project explores the developments in the Turkish economy from 1998 to the second quarter of 2024. It aims to identify key turning points and trends that have shaped the economic landscape, providing foundational insights to understand the evolution of the Turkish Grocery Discount Retail Market.
 
 ## Objectives
-- To provide a detailed description of the Turkish economy over the specified period.
+- To provide an overarching description of the Turkish economy over the specified period.
 - To identify and describe significant economic events and trends.
 - To provide the necessary foundation for connecting macroeconomic developments with the evolution of the Grocery Discount Retail Market.
 
 ## Methodology
 - Exploration and processing of various economic datasets, organized into relevant "Data Categories."
 - Review and synthesis of relevant literature to historically contextualize economic developments and interpret findings.
-- Examination of macroeconomic trends and their implications for the Grocery Discount Retail Market.
+- Examination of macroeconomic shifts and trends, along with their implications for the Grocery Discount Retail Market.
 
-## Data Sources
+## Sources and References
 - General references to data sources can be found in Subsection A-I, "Data Presentation," of the report's Methods section.
 - Detailed references to data sources are provided in the References for Data section of the report.
 - References to literature are provided in the References section of the report.
