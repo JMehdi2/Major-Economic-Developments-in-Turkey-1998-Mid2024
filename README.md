@@ -10,7 +10,7 @@ This project explores the developments in the Turkish economy from 1998 to the s
 
 ## Methodology
 - Exploration and processing of various economic datasets, organized into relevant "Data Categories."
-- Review and synthesis of relevant literature to contextualize developments and interpret findings.
+- Review and synthesis of relevant literature to historically contextualize economic developments and interpret findings.
 - Examination of macroeconomic trends and their implications for the Grocery Discount Retail Market.
 
 ## Data Sources
