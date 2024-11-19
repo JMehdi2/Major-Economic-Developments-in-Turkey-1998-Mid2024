@@ -13,11 +13,6 @@ This project explores the developments in the Turkish economy from 1998 to the s
 - Review and synthesis of relevant literature to historically contextualize economic developments and interpret findings.
 - Examination of macroeconomic shifts and trends, along with their implications for the Grocery Discount Retail Market.
 
-## Sources and References
-- General references to data sources can be found in Subsection A-I, "Data Presentation," of the report's Methods section.
-- Detailed references to data sources are provided in the References for Data section of the report.
-- References to literature are provided in the References section of the report.
-
 ## Expected Outcomes
 - A foundational understanding of the Turkish economy's evolution.
 - A clearer connection between macroeconomic developments and the Grocery Discount Retail Market in Turkey.
@@ -26,6 +21,12 @@ This project explores the developments in the Turkish economy from 1998 to the s
 - This project is not yet complete. However, we are sharing progress in an organized manner, recognizing that individual parts of this work serve as valuable resources on their own and inviting feedback from readers.
 - As of the time of this README file update, we are building and processing the "Data Categories" and creating the related graphical visualizations, with documentation provided in the Methods section of the report. [Click Here](https://github.com/JMehdi2/Major-Economic-Developments-in-Turkey-1998-Mid2024/tree/main/Methods-Data-Processing-Visualization)
 - The next step will be to divide the time period under analysis (1998 to Mid-2024) into subperiods, within which we will identify significant economic events and trends and describe them in light of relevant existing literature.
+- We encourage readers to report mistakes and suggest additions by creating issues.
+
+## Sources and References
+- General references to data sources can be found in Subsection A-I, "Data Presentation," of the report's Methods section.
+- Detailed references to data sources are provided in the References for Data section of the report.
+- References to literature are provided in the References section of the report.
 
 ## Licensing
 - This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
